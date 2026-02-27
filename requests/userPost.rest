@@ -1,0 +1,11 @@
+POST http://localhost:4000/api/users
+Content-Type: application/json
+
+{
+    "uid": "121299vnjdfjsjdfscc129238923434dje",
+    "name": "Bryan",
+    "lastName": "Suquillo",
+    "email": "brsume@gmail.com",
+    "age": 28,
+    "gender": "male"
+}

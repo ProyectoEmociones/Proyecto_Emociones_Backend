@@ -1,0 +1,5 @@
+// Para obtener repuesta de un usuario en concreto
+@port = 4000
+@baseUrl = http://localhost:{{port}}/api/users/
+GET {{baseUrl}}121299vnjdfjsjdfscc129238923434dje
+
