@@ -1,5 +1,6 @@
 // Para obtener repuesta de un usuario en concreto
 @port = 4000
-@baseUrl = http://localhost:{{port}}/api/users/
-GET {{baseUrl}}121299vnjdfjsjdfscc129238923434dje
+@urlLocal = http://localhost:{{port}}/api/users/
+@urlServidor = https://proyecto-emociones-backend.onrender.com/api/users/
+GET {{urlServidor}}121299vnjdfjsjdfscc129238923434dje
 
