@@ -4,9 +4,9 @@ Content-Type: application/json
 
 {
     "uid": "121212",
-    "name": "Pedro",
-    "lastName": "Márquez",
-    "email": "pedrito@gmail.com",
+    "name": "UserChanges",
+    "lastName": "UserChanges",
+    "email": "user@gmail.com",
     "birthdate": "15/09/1999",
     "gender": "male"
 }

@@ -4,9 +4,9 @@ const userSchema = new mongoose.Schema(
   {
     uid: { type: String, required: true, unique: true },
     name: { type: String, required: true },
-    lastName: { type: String, required: true },
+    lastName: { type: String },
     email: { type: String, required: true, unique: true },
-    birthdate: { type: String },
+    birthdate: { type: Date },
     gender: { type: String, required: true },
   },
   { timestamps: true }
